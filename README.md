@@ -1,2 +1,2 @@
-# abdusodir2
+# alter2.uz
 github
